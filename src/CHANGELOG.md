@@ -1,5 +1,11 @@
 # viem
 
+## 2.47.7
+
+### Patch Changes
+
+- [#4409](https://github.com/wevm/viem/pull/4409) [`25634335611498ecaead8435b1403e5f28d30fc1`](https://github.com/wevm/viem/commit/25634335611498ecaead8435b1403e5f28d30fc1) Thanks [@abs3ntdev](https://github.com/abs3ntdev)! - Added Gensyn Mainnet
+
 ## 2.47.6
 
 ### Patch Changes
